@@ -1,0 +1,19 @@
+.inlinetext{
+    display: inline;
+}
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+.sec2{
+    text-align: center;
+}
+.backgroundimg{
+    width: 1500px;
+    height: 1000px;
+    background-size: cover;
+    background-position: center;
+     color: white;
+ background-image: url(https://cdn.sanity.io/images/tlr8oxjg/production/5c3120359be5c4f225cd7b817811217041b759ab-1192x668.png?w=3840&q=100&fit=clip&auto=format);
+}
